@@ -1,0 +1,4 @@
+/* ; マウスカーソル変更 */
+.cur_search {
+  cursor: url("../image/icon/cursorA.png") 15 15, pointer !important;
+}
